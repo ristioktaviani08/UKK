@@ -1,0 +1,28 @@
+
+                      PROJECT UJI KOMPETENSI(UKK) 
+                         "SISTEM PEMBELIAN MOBIL" 
+
+-----------------------------------------------------------------------------------------
+Nama Lengkap   : Risti Oktaviani
+Kelas                  : XII
+Jurusan              : Rekayasa Perangkat Lunak (RPL)
+Tahun Ajaran     : 2015/2016
+Email                  : ristyoktaviani08@gmail.com
+Tanggal UKK      : 01 s/d 03 Maret 2016
+Tempat  UKK      : SMK TI Airlangga Samarinda
+-----------------------------------------------------------------------------------------
+
+*JIKA INGIN MENGGUNAKAN APLIKASI INI DI LAPTOP/PC LAIN, BACA ATURAN DI BAWAH INI:
+
+1. Instal semua jenis fonts, yang berada di dalam folder aplikasi dengan nama folder 'Fonts'.
+2. Masukkan database yang bernama "db_ukk_mobil.bak " yang ada di dalam folder aplikasi dengan nama folder 'Database' ke SQL SERVER 2012.
+3. Setelah langkah 1 & 2 sudah selesai, maka sekarang langsung buka aplikasi menggunakan VISUAL BASIC 2012, jangan langsung dijalankan, ubah terlebih dahulu nama lokasi database di setiap form             loadnya. CONTOH:
+    klik modules-mobil-klik double pada form-lalu lihat kode seperti ini:  cn.ConnectionString = "Data Source=RISTI\SQLEXPRESS;Initial Catalog=db_ukk_mobil;User ID=sa;Password=sa2008"
+    yang berada dalam tanda petik disesuaikan dengan nama sql server, nama database, nama user, dan password yang digunakan.
+    PERHATIKAN DI SETIAP FORM LOAD DI DALAM APLIKASI!
+4. Jika langkah 1-3 sudah selesai dan tidak ada masalah, maka aplikasi "SISTEM PEMBELIAN MOBIL" bisa langsung dijalankan dengan menekan tombol "Start/F5".
+
+"PERHATIKAN DAN IKUTI LANGKAH-LANGKAH DIATAS AGAR APLIKASI BERJALAN DENGAN LANCAR"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jika ada kesulitan atau pertanyaan silahkan kirimkan ke email: ristyoktaviani08@gmail.com

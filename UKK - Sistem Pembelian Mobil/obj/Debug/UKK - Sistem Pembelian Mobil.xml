@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UKK-SistemPembelianMobil
+</name>
+</assembly>
+<members>
+<member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.background_baru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Bg_Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Bg_Registrasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Beli_Cash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Cicilan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Mobil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Paket_Kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Pembeli">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Pengguna">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Lap_Petugas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.line_button_menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Logo_Login_yg_dipakai_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Logo_Menu_fix_yg_dipakai_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources.Logo_Registrasi_Akun_yg_dipakai_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:UKK___Sistem_Pembelian_Mobil.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

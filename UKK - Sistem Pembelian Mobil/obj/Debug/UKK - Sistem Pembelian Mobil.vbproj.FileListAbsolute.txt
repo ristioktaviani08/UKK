@@ -1,0 +1,74 @@
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.exe.config
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.exe
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.pdb
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.xml
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.vbprojResolveAssemblyReference.cache
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmDashboard.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapBayarCicilan.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapBeliCash.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenuLaporan.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapMobil.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPaketKredit.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPembeli.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPengguna.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPetugas.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmKunciLayar.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMasuk.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenu.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBayarCicilan.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBeliCash.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmKredit.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMobil.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPaketKredit.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPembeli.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPengguna.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPetugas.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmSkemaPembelian.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.Resources.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.vbproj.GenerateResource.Cache
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.exe
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.xml
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.pdb
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmDaftarAkun.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil-TAHAP 4-YG BNR\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.exe.config
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil-TAHAP 4-YG BNR\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.exe
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil-TAHAP 4-YG BNR\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.xml
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil-TAHAP 4-YG BNR\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.pdb
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.LapKredit.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBantuanAkun.resources
+R:\PORTOFOLIO\APLIKASI DEKSTOP\VISUAL BASIC\Project VB.NET\Database SQL Server\Kelas XII\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenuUtama.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.exe.config
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.exe
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.xml
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.pdb
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.exe
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.pdb
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\bin\Debug\UKK - Sistem Pembelian Mobil.xml
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.vbprojResolveAssemblyReference.cache
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmDaftarAkun.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmDashboard.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenuUtama.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBantuanAkun.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapBayarCicilan.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapBeliCash.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenuLaporan.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.LapKredit.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapMobil.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPaketKredit.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPembeli.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPengguna.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmLapPetugas.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmKunciLayar.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMasuk.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMenu.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBayarCicilan.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmBeliCash.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmKredit.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmMobil.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPaketKredit.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPembeli.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPengguna.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmPetugas.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.FrmSkemaPembelian.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK___Sistem_Pembelian_Mobil.Resources.resources
+D:\RISTI\Visual Studio\UKK - Sistem Pembelian Mobil\UKK - Sistem Pembelian Mobil\obj\Debug\UKK - Sistem Pembelian Mobil.vbproj.GenerateResource.Cache
